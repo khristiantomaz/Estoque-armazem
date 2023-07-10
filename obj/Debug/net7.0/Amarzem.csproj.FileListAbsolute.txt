@@ -1,0 +1,15 @@
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.csproj.AssemblyReference.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.AssemblyInfoInputs.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.AssemblyInfo.cs
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.csproj.CoreCompileInputs.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\bin\Debug\net7.0\Amarzem.exe
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\bin\Debug\net7.0\Amarzem.deps.json
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\bin\Debug\net7.0\Amarzem.runtimeconfig.json
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\bin\Debug\net7.0\Amarzem.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\bin\Debug\net7.0\Amarzem.pdb
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\refint\Amarzem.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.pdb
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\Amarzem.genruntimeconfig.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\Amarzem\obj\Debug\net7.0\ref\Amarzem.dll
